@@ -28,6 +28,9 @@ The following can be used for cross reference.
 * OmniOS [developer/illumos-closed][2] package dated 2016-11-01
 * OmniTI [illumos-gate][4] mirror dated 2012-08-06
 
+For further integrity verification, you can clone this repo to ensure that I
+have not changed the hashes with a forced push.
+
 [1]: https://github.com/joyent/smartos-live/blob/master/sample.configure.smartos#L27-L32
 [2]: https://pkg.omniti.com/omnios/r151020/info/0/pkg%3A%2F%2Fomnios%2Fdeveloper%2Fillumos-closed%405.11%2C5.11-0.151020%3A20161101T224748Z
 [3]: https://illumos.topicbox.com/groups/developer/T5cf348469c9ec7a3-M8baaf354c1f2d91acd8c23c4
