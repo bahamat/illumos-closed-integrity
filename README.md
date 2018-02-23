@@ -23,8 +23,10 @@ system locations][1] and have verified against independent copies used for
 OmniOS and Nexenta. In order for there to be a compromise, all copies would
 need to be simultanously compromised, or a sufficient conspiracy.
 
-The following can be used for cross reference.
+The following can be used for cross reference. The checksum of the files can
+be verified against the [Hashes](./Hashes) file in this repository.
 
+* Joyent [pub/build/illumos][5] dated 2010-08-18
 * OmniOS [developer/illumos-closed][2] package dated 2016-11-01
 * OmniTI [illumos-gate][4] mirror dated 2012-08-06
 
@@ -35,3 +37,4 @@ have not changed the hashes with a forced push.
 [2]: https://pkg.omniti.com/omnios/r151020/info/0/pkg%3A%2F%2Fomnios%2Fdeveloper%2Fillumos-closed%405.11%2C5.11-0.151020%3A20161101T224748Z
 [3]: https://illumos.topicbox.com/groups/developer/T5cf348469c9ec7a3-M8baaf354c1f2d91acd8c23c4
 [4]: https://mirrors.omniti.com/illumos-gate/
+[5]: https://download.joyent.com/pub/build/illumos
